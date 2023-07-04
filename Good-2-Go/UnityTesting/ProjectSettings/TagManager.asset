@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Cube
+  - Enemy
+  - Goal
+  - Button
+  - FakeEnemy
+  - TempTurn
+  - P1Enemy
+  - P2Enemy
+  - MovingCube
+  - P1MovingCube
+  - P2MovingCube
+  - PullRodStyle1
+  - PullRodStyle2
+  - Rod2MovingCube
+  - FakeTrapcenter
+  - ThreeMovingCube
+  - SpeakPanel
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - turnLayer
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: New Layer 1
+    uniqueID: 1898124077
+    locked: 0
+  - name: New Layer 2
+    uniqueID: 4064732827
+    locked: 0
