@@ -1,13 +1,6 @@
 # Good-2-Go
-A NetEase Gamejam Project
+A NetEase MINI Gamejam Project
 
-### 目前demo的问题
+Competition interface link: https://game.academy.163.com/event/mg-2022?page=works&id=2855
 
-* 角色问题：
-1. 人物移动时为瞬移
-2. 回合制没有相应提示
-3. 基于单个cube有0.5f的向上位移，当cube发生改变，位移高度也要发生改变。
-
-* 敌人问题：
-1. 敌人只有模型
-2. 出现踩敌人头的问题，敌人无法被销毁。
+Bilibili Video: https://www.bilibili.com/video/BV1Fg41167d8/?spm_id_from=333.999.0.0&vd_source=f614a05041caf031159eaed1427904d2
